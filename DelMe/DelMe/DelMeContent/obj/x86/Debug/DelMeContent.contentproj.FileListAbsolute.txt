@@ -1,0 +1,2 @@
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMeContent\obj\x86\Debug\DelMeContent.contentprojResolveAssemblyReference.cache
+E:\DELL1\Desktop\DelMe\DelMe\DelMeContent\obj\x86\Debug\DelMeContent.contentprojResolveAssemblyReference.cache

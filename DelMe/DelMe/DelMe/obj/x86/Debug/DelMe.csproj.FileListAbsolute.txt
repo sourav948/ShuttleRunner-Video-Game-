@@ -1,0 +1,36 @@
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\Content\shuttle.xnb
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\DelMe.exe
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\DelMe.pdb
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\obj\x86\Debug\DelMe.exe
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\obj\x86\Debug\DelMe.pdb
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\Content\stars.xnb
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\Content\Score.xnb
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\Content\music.xnb
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\Content\music.wma
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\obj\x86\Debug\DelMe.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\Content\sprBalloon.xnb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\Content\teri.xnb
+C:\Users\Dell\documents\visual studio 2013\Projects\DelMe\DelMe\DelMe\bin\x86\Debug\Content\Game.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\shuttle.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\stars.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\sprBalloon.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\teri.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\Game.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\Score.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\music.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\music.wma
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\DelMe.exe
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\DelMe.pdb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\obj\x86\Debug\DelMe.csprojResolveAssemblyReference.cache
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\obj\x86\Debug\DelMe.exe
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\obj\x86\Debug\DelMe.pdb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\photo.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\game_over_by_maryduran-d311exn.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\keep.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\shuttle1.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\Time.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\Text.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\a.xnb
+E:\DELL1\Desktop\DelMe\DelMe\DelMe\bin\x86\Debug\Content\04.xnb
